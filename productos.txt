@@ -1,0 +1,1 @@
+[4,[{"id":1,"nombre":"hotwheels","stock":15,"precio":150},{"id":2,"nombre":"muñeco woody","stock":5,"precio":2000},{"id":3,"nombre":"power ranger","stock":10,"precio":1000},{"id":4,"nombre":"triciclo","stock":3,"precio":5000}]]
